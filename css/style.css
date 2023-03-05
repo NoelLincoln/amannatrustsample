@@ -7268,7 +7268,7 @@ a.text-dark:hover, a.text-dark:focus {
     border: 1px solid #dee2e6 !important; } }
 
 body {
-  font-family: "Georgia", Arial, sans-serif;
+  font-family: "Georgia", Arial, serif;
   background: #fff;
   font-size: 16px;
   line-height: 1.8;
@@ -7296,7 +7296,7 @@ h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.4;
   color: #000;
-  font-family: "Dosis", Arial, sans-serif;
+  font-family: "Georgia", Arial, serif;
   font-weight: 400; }
 
 .text-primary {
@@ -7395,7 +7395,7 @@ h1, h2, h3, h4, h5,
     left: 0;
     top: 0;
     margin-top: -130px;
-    background: #fff !important;
+    background: #834680 !important;
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1); }
     .ftco-navbar-light.scrolled .nav-item.active > a {
@@ -7441,7 +7441,7 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light.scrolled .nav-link {
       padding-top: 0.9rem !important;
       padding-bottom: 0.9rem !important;
-      color: #000 !important; }
+      color: #FFFFFF !important; }
       .ftco-navbar-light.scrolled .nav-link.active {
         color: #f86f2d !important; }
     .ftco-navbar-light.scrolled.awake {
@@ -7454,7 +7454,7 @@ h1, h2, h3, h4, h5,
       -o-transition: .3s all ease-out;
       transition: .3s all ease-out; }
     .ftco-navbar-light.scrolled .navbar-brand {
-      color: #000; }
+      color: #FFFFFF; }
 
 .navbar-brand {
   font-weight: 700;
